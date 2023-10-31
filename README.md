@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-flame-six-64.vercel.app/api?username=PrincesseVoiture)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-flame-six-64.vercel.app/api?username=PrincesseVoiture&count_private&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-flame-six-64.vercel.app/api/top-langs/?username=PrincesseVoiture&theme=dark&layout=pie&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://api.githubtrends.io/user/svg/PrincesseVoiture/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://www.githubtrends.io)
+
+[![Top repos](https://api.githubtrends.io/user/svg/PrincesseVoiture/repos?time_range=one_year&include_private=True&theme=dark)](https://www.githubtrends.io)
 
 <!--
 **PrincesseVoiture/PrincesseVoiture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
